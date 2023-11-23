@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'msrit-sis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_397B12619A214CEE8E6AB928CD59FF0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6250E58A69054A5CA4E5E6CD1823B844 }}
